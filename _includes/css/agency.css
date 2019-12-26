@@ -783,6 +783,12 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.portfolio-modal .modal-text {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     width: 90%;
