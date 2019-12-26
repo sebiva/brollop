@@ -65,6 +65,10 @@ h6 {
     background-color: #f7f7f7;
 }
 
+.bg-light-green {
+    background-color: #ebf9e9
+}
+
 .bg-darkest-gray {
     background-color: #222;
 }
@@ -657,7 +661,7 @@ aside.clients img {
 }
 
 section#picture {
-    background-image: url('{{ site.baseurl }}/img/ocean.png');
+    background-image: url('{{ site.baseurl }}/img/ocean.jpg');
     background-position: center;
     height: 500px;
 }
