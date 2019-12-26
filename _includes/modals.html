@@ -13,13 +13,13 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <hr class="star-primary" width="85%">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" width="85%" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <p>{{ post.content }}</p>
                             {% if post.map %}
                                 <p></p>
-                                <iframe src="https://www.google.com/maps/embed?pb={{ post.map }}" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb={{ post.map }}" width="85%" height="360" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             {% endif %}
 
                             <ul class="list-inline item-details">
