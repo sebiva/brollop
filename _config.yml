@@ -29,6 +29,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+people:
+ - name: Bruden
+   pic: emma.png
+   position: Emma
+
+ - name: Brudgummen
+   pic: sebastian.png
+   position: Sebastian
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
