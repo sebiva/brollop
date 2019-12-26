@@ -656,9 +656,15 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#picture {
+    background-image: url('{{ site.baseurl }}/img/ocean.png');
+    background-position: center;
+    height: 500px;
+}
+
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    /*background-image: url('{{ site.baseurl }}/img/map-image.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
