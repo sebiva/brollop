@@ -2,7 +2,7 @@
 title: Boende
 subtitle: Charlottenlund
 layout: default
-modal-id: 3
+modal-id: boende
 date: 2019-12-15
 img: charlottenlund.jpg
 thumbnail: charlottenlund-thumbnail.jpg

@@ -28,10 +28,19 @@ $('.navbar-collapse ul li a').click(function() {
 $('div.modal').on('show.bs.modal', function() {
     var modal = this;
     var hash = modal.id;
+    var oldhash = window.location.hash;
     window.location.hash = hash;
     window.onhashchange = function() {
         if (!location.hash){
             $(modal).modal('hide');
         }
     }
+    $(modal).on('hidden.bs.modal', function() {
+        // If the url still has the modal hash, clear it by going back in the
+        // history (to avoid scrolling which happens when setting
+        // window.location.hash = "").
+        if (window.location.hash == "#".concat(hash)) {
+            window.history.back();
+        }
+    })
 });

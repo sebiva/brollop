@@ -2,7 +2,7 @@
 title: Kyrkan
 subtitle: Långaryds Kyrka
 layout: default
-modal-id: 1
+modal-id: kyrkan
 date: 2019-12-15
 img: kyrka.jpg
 thumbnail: kyrka-thumbnail.jpg
