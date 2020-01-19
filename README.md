@@ -15,10 +15,16 @@ gem update
 gem install bundle
 ```
 
+Check the version of ruby that is installed:
+```
+ruby --version
+```
+
 Add this to .zshrc:
 ```
-export PATH=$PATH:$HOME/.gem/ruby/2.6.0/bin
+export PATH=$PATH:$HOME/.gem/ruby/$VERSION/bin
 ```
+Where $VERSION is the ruby version (for example 2.7.0).
 
 ## Setup bundle
 
