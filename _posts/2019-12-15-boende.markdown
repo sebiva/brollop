@@ -14,4 +14,4 @@ map: "1m18!1m12!1m3!1d2171.107240457509!2d13.349626316142436!3d57.03258850002879
 ---
 För långväga gäster finns möjligt boende på <a href="https://www.charlottenlund.com">Charlottenlund</a> i Långaryd, ca 1km från Kyrkan och ca 3km från festen. Dessutom finns även <a href="https://smalandsstenarhotell.se">Smålandsstenar Hotel</a> och <a href="https://www.horsjonscamping.com"> Hörsjöns campingstugor</a> knappt 2 mil bort.
 
-På Charlottenlund har vi redan preliminär-bokat rummen, så hör av er direkt till brudparet eller till värdarna på <a href="mailto:{{ site.email }}">{{ site.email }}</a> om ni är intresserade av att boka ett rum.
+På Charlottenlund har vi redan preliminär-bokat rummen, så hör av er direkt till brudparet eller till värdarna på <a href="mailto:{{ site.email }}">{{ site.email }}</a> om ni är intresserade av att boka ett rum. Vi behöver veta ifall ni vill boka ett av dessa rum senast den 14/3, resten av rummen kommer släppas efter detta datum.
