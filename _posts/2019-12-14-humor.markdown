@@ -7,8 +7,8 @@ date: 2019-12-14
 img: xkcd943.png
 thumbnail: xkcd943.png
 alt: image-alt
-project-date: 16 Maj 2020, 00:00
-project-date-eng: May 16th 2020
+project-date: 12 September 2020, 00:00
+project-date-eng: September 12th 2020
 
 ---
 
