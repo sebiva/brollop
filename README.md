@@ -30,7 +30,7 @@ Where $VERSION is the ruby version (for example 2.7.0).
 
 ```
 bundle init
-bundle install --path vendor/bundle
+bundle config set path 'vendor/bundle'
 ```
 
 ## Start the page
