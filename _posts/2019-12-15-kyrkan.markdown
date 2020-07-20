@@ -7,8 +7,8 @@ date: 2019-12-15
 img: kyrka.jpg
 thumbnail: kyrka-thumbnail.jpg
 alt: image-alt
-project-date: 12 September 2020, 15:00
-project-date-eng: September 12th 2020
+project-date: 1 January 1970, 00:00
+project-date-eng: January 1st 1970
 map: "!1m18!1m12!1m3!1d2170.54278133827!2d13.351324116142754!3d57.0422495992727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4650f8c2da8ebe9b%3A0xe8739cee7c2708c4!2sL%C3%A5ngaryds%20kyrka!5e0!3m2!1sen!2sse!4v1576403306239!5m2!1sen!2sse"
 description:
 
